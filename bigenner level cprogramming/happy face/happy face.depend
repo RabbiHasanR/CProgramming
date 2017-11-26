@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1447977108 source:c:\users\rabbiswe\desktop\happy face\main.cpp
+	<graphics.h>
+	<stdio.h>
+	<conio.h>
+

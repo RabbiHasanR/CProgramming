@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1444155510 source:c:\users\rabbiswe\desktop\switch2\main.c
+	<stdio.h>
+
+1444156652 source:c:\users\rabbiswe\desktop\switch2\condition.c
+	<stdio.h>
+	<stdlib.h>
+

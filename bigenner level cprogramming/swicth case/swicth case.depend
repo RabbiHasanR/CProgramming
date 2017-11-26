@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1449714384 source:c:\users\rabbiswe\desktop\swicth case\main.c
+	<stdio.h>
+	<stdlib.h>
+

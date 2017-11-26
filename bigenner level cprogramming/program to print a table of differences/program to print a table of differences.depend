@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1448711773 source:c:\users\rabbiswe\desktop\program to print a table of differences\main.c
+	<stdio.h>
+	<math.h>
+

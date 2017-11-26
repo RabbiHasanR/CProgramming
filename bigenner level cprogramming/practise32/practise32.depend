@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1445315229 source:c:\users\rabbiswe\desktop\practise32\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1445315229 source:c:\users\rabbiswe\desktop\cprogramming\practise32\main.c
+	<stdio.h>
+	<stdlib.h>
+

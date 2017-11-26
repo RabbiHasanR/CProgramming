@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1447971011 source:c:\users\rabbiswe\desktop\humaninc\main.cpp
+	<stdio.h>
+	<conio.h>
+	<graphics.h>
+

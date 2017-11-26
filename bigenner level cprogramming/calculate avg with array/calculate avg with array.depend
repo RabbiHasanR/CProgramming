@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1450146099 source:c:\users\rabbiswe\desktop\calculate avg with array\main.c
+	<stdio.h>
+	<stdlib.h>
+
